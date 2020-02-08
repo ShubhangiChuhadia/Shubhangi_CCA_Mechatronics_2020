@@ -4,9 +4,9 @@
 - ![Carousel](/Week_1/Videos/Carousel.gif)
 
 # Cup-Ride
+- ![Cup-ride](/Week_1/Videos/Cup ride_initial.gif)
 - Bevel gear used to rotate it
 - Height of the flexible arms is changed by the uneven height of the round boundary
-- ![Cup-ride](/Week_1/Videos/Cup ride_initial.gif)
 - ![Cup-ride](/Week_1/Videos/Cup_Ride.gif)
 
 
