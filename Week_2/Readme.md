@@ -1,0 +1,9 @@
+# Carousel Improved
+- All the mechanism shrinked down and made using wood
+- Worm gear removed and normal gears used instead
+- ![Carousel New](/Week_2/Videos/Carousel.gif)
+
+# Gears
+- I tried different gears for the final thing
+- ![Stick and pinion gear](/Week_2/Videos/Stick and pinion gear.gif)
+- ![Normal gears](/Week_2/Videos/Gears.gif)
