@@ -5,5 +5,5 @@
 
 # Gears
 - I tried different gears for the final thing
-- ![Stick and pinion gear](/Week_2/Videos/Stick and pinion gear.gif)
+- ![Stick&piniongear](/Week_2/Videos/Stick and pinion gear.gif)
 - ![Normal gears](/Week_2/Videos/Gears.gif)
