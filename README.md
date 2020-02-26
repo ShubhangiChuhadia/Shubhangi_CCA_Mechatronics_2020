@@ -13,7 +13,7 @@
 ## Week 3
 - Idea : To improve the gear mechanism and combine all the rides to a single gear so that it can be attached with motor
 - Worked more on the gears and their fittings
-- MOre about [Week 3](/Week_3/)
+- More about [Week 3](/Week_3/)
 
 ## Week 4
 - Idea : To make lights match with a song on Arduino
