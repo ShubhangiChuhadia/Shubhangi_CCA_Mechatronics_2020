@@ -18,6 +18,5 @@
 ## Week 4
 - Idea : To make lights match with a song on Arduino
 - Worked on the Arduino board and refined the gear mechanisms
-- https://youtu.be/mXOWHyFg0Co
 - More about [Week 4](/Week_4/)
 
