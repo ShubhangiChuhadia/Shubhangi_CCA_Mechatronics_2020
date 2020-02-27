@@ -1,7 +1,7 @@
 # Arduino
 - Made a light blinking setting that would go along with the Hedwig's Theme
 - I used the delay command to do this as of now
-- The [Youtube Link](https://youtu.be/mXOWHyFg0Co)
+- The [Youtube Link](https://youtu.be/mXOWHyFg0Co) of the board (turn the sound on)
 
 # Gears
 - I wanted to reduce the friction, so I shifted the whole mechanism on a plastic sheet
