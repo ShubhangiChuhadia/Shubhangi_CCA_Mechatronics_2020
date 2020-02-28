@@ -4,7 +4,8 @@
 - The [Youtube Link](https://youtu.be/mXOWHyFg0Co) of the board (turn the sound on)
 - Code for the lights :
 
-void setup() {
+```CPP
+  void setup() {
   pinMode(LED_BUILTIN, OUTPUT);
   pinMode(1, OUTPUT);
   pinMode(2, OUTPUT);
@@ -170,7 +171,7 @@ void loop() {
  
                                                    
 }
-
+```
 # Gears
 - I wanted to reduce the friction, so I shifted the whole mechanism on a plastic sheet
 - The motor was finally able to drive the gears 
