@@ -20,3 +20,13 @@
 - Worked on the Arduino board and refined the gear mechanisms
 - More about [Week 4](/Week_4/)
 
+## Pre-midsem week
+- I worked on the theme park a little more, and wanted to make a roller coaster ride based on a line following bot idea
+- I had to move back to India, and left a lot of my things in the college itself, so I started working just on the line following bot
+- I had to scavenge a lot of parts to make the bot to work (could not buy them because of the lockdown)
+- More about [Pre-midsem week](/Pre_midsem_Week/)
+
+## Midsem Week
+- Combined all the parts together and made the bot to work
+- Tried two different codes to make the bot work
+- More about [Midsem week](/Midsem_Week/)
