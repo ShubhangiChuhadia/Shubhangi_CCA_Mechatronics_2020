@@ -5,6 +5,11 @@
  ![Bot 4](/Midsem_Week/Bot_4.jpg)
 - The [Youtube Link](https://youtu.be/a-yLbLEQiu8) of my bot
 
+- Closeups of the circuit
+![Bot 4](/Midsem_Week/Arduino.jpg)
+![Bot 2](/Midsem_Week/Ciruit.jpg)
+![Bot 3](/Midsem_Week/IRSensors.jpg)
+
 - I tried two codes to make the bot work
 - The first one worked on the concept of stopping when it sensed the black surface and moved away from the black line
 
