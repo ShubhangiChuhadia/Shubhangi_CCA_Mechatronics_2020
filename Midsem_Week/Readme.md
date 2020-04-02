@@ -1,8 +1,8 @@
 # Line following bot
-- ![Bot 1](/Midsem_Week/Bot_1.jpg)
-- ![Bot 2](/Midsem_Week/Bot_2.jpg)
-- ![Bot 3](/Midsem_Week/Bot_3.jpg)
-- ![Bot 4](/Midsem_Week/Bot_4.jpg)
+ ![Bot 1](/Midsem_Week/Bot_1.jpg)
+ ![Bot 2](/Midsem_Week/Bot_2.jpg)
+ ![Bot 3](/Midsem_Week/Bot_3.jpg)
+ ![Bot 4](/Midsem_Week/Bot_4.jpg)
 - The [Youtube Link](https://youtu.be/a-yLbLEQiu8) of my bot
 
 - I tried two codes to make the bot work
