@@ -75,3 +75,51 @@ void loop() {
  
 }
 ```
+
+- The second code required the base black line to be thicker and works when the sensors are on black, and stops as soon as it sense the white surface
+
+```CPP
+//defining leftVal as the value which occurs when black color is sensed
+int leftVal = 995;
+int rightVal = 980;
+int speedval = 70;
+
+
+void setup() {
+ Serial.begin(9600);
+ pinMode(9, OUTPUT);
+ pinMode(10, OUTPUT); 
+
+}
+
+void loop() {
+ int leftfinal = analogRead(A0);
+ int rightfinal = analogRead(A1);
+// Serial.println(leftfinal);
+// Serial.println(rightfinal);
+
+
+
+ if ((leftfinal >= leftVal) && (rightfinal >= rightVal))
+ {
+  analogWrite(9, speedval);
+  analogWrite(10, speedval);
+ }
+ else if ((leftfinal >= leftVal) && (rightfinal < rightVal))
+ {
+  analogWrite(9, 0);
+  analogWrite(10, speedval);
+ }
+  else if ((rightfinal >= rightVal) && (leftfinal < leftVal))
+ {
+  analogWrite(10, 0);
+  analogWrite(9, speedval);
+ }
+  else if ((leftfinal <= leftVal) && (rightfinal <= rightVal))
+ {
+  analogWrite(9, 0);
+  analogWrite(10, 0);
+ }
+ 
+}
+```
