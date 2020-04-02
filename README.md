@@ -29,4 +29,5 @@
 ## Midsem Week
 - Combined all the parts together and made the bot to work
 - Tried two different codes to make the bot work
+- The [Youtube Link](https://youtu.be/a-yLbLEQiu8) of my bot
 - More about [Midsem week](/Midsem_Week/)
