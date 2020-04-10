@@ -32,3 +32,8 @@
 - The [Youtube Link](https://youtu.be/a-yLbLEQiu8) of my bot
 - The [Youtube Link](https://youtu.be/ZgBRjx-Byh4) of how it works
 - More about [Midsem week](/Midsem_Week/)
+
+## Week 7
+- Idea 1 : To make a paper aeroplane maker and thrower bot
+- Idea 2 : To make a quadcopter that delivers things
+More about [Week 7](/Week_7/)
