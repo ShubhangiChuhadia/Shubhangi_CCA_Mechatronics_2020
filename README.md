@@ -36,4 +36,4 @@
 ## Week 7
 - Idea 1 : To make a paper aeroplane maker and thrower bot
 - Idea 2 : To make a quadcopter that delivers things
-More about [Week 7](/Week_7/)
+- More about [Week 7](/Week_7/)
