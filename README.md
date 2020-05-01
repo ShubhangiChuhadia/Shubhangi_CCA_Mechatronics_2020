@@ -395,11 +395,11 @@ void loop() {
 - Started building the mechanism of the paper aeroplane folding machine
 - Mechanism of the first fold
 - ![First Fold](/Week_8/FirstFold.jpg)
-- ![First Fold 2](/Week_8/FirstFoldMechanism.jpg)
+- ![First Fold 2](/Week_8/FirstFoldMechanism.gif)
 
 ## Week 9
 - Initial mechanism of second fold
--![Second Fold](/Week_8/SecondFold.jpg)
+-![Second Fold](/Week_8/SecondFold.gif)
 
 ## Week 10
 - Final video of the project (https://youtu.be/nOUETtbUJ7E)
