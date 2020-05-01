@@ -390,3 +390,44 @@ void loop() {
 # Paper aeroplane machine
 - (https://www.youtube.com/watch?v=iHmCseRFV2M&t=16s)
 - https://www.youtube.com/watch?v=brQMq8Vz4QA&t=70s (same machine made using lego!)
+
+## Week 8
+- Started building the mechanism of the paper aeroplane folding machine
+- Mechanism of the first fold
+- ![First Fold](/Week_8/FirstFold.jpg)
+- ![First Fold](/Week_8/FirstFoldMechanism.jpg)
+
+## Week 9
+- Initial mechanism of second fold
+-![Second Fold](/Week_8/SecondFold.jpg)
+
+## Week 10
+- Final video of the project (https://youtu.be/nOUETtbUJ7E)
+- The code for this is was very simple, and mostly involved mechnism. The same code was used, by changing the angles for each step.
+ CPP```
+ #include <Servo.h>
+
+Servo myservo;  
+
+int pos = 0;    
+void setup() {
+  myservo.attach(9);  
+  for (pos = 60; pos <= 180; pos += 1) { 
+    myservo.write(pos);              /
+    delay(15);                       
+  delay(1000);
+  for (pos = 180; pos >= 60; pos -= 1) { 
+    myservo.write(pos);            
+    delay(15);                      
+  }
+  
+}
+
+void loop() 
+{
+//empty
+}
+```
+
+
+
