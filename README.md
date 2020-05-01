@@ -380,6 +380,7 @@ void loop() {
  }
  
 }
+```
 
 ## Week 7
 - Idea 1 : To make a paper aeroplane maker and thrower bot
