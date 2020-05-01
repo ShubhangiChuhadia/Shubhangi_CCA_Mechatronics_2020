@@ -399,7 +399,7 @@ void loop() {
 
 ## Week 9
 - Initial mechanism of second fold
--![Second Fold](/Week_8/SecondFold.gif)
+-![Second Fold](/Week_9/SecondFold.gif)
 
 ## Week 10
 - Final video of the project (https://youtu.be/nOUETtbUJ7E)
